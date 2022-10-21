@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f19cce7c
+license: CC-BY-NC-SA-4.0
+name: ploppablepaxproperties
 type: industry
+url: https://github.com/CaptainKlutz/ploppablepaxproperties
 version: 6
